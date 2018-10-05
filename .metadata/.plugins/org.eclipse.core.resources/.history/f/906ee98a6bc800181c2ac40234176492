@@ -1,0 +1,24 @@
+package tp3;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class ExerciceTDDTest {
+	ExerciceTDD obj;
+	
+	@Before
+	public void setUp() {
+		obj = new ExerciceTDD();
+	}
+	
+	@Test
+	public void testEstPair() {
+		assertEquals(true, obj.estPair(0)); //méthode 1
+		assertTrue(obj.estPair(0)); //méthode 2
+		assertFalse(obj.estPair(15));
+		assertTrue(obj.estPair(272));
+	}
+
+}
