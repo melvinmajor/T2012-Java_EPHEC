@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<checkstyle-configurations file-format-version="5.0.0" default-check-configuration="EPHEC Check">
-  <check-configuration name="EPHEC Check" location="C:\Users\HE201464\Documents\eclipse-workspace\convention_TP_java" type="external" description="">
-    <additional-data name="protect-config-file" value="false"/>
-  </check-configuration>
-</checkstyle-configurations>
