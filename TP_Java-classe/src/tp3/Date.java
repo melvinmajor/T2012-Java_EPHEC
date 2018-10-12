@@ -22,6 +22,6 @@ public class Date {
 	//getters et setters
 	
 	public String toString() {
-		return ("Date: " +jour+"/"+mois+"/"+annee);
+		return (jour+"/"+mois+"/"+annee);
 	}
 }
