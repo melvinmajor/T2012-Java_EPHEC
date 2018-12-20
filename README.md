@@ -15,8 +15,8 @@
 - [x] TP5: 19 octobre 2018
 - [x] TP6: 26 octobre 2018
 - [x] <span style="color:darkBlue"><i>TP7:* 9 novembre 2018</i></span>
-- [ ] TP8: 16 novembre 2018
-- [ ] TP9: 23 novembre 2018
+- [x] TP8: 16 novembre 2018
+- [x] TP9: 23 novembre 2018
 - [ ] TP10: 30 novembre 2018
 
 <span style="color:darkBlue">* Cours pratique consacré au projet, poser des questions, refaire de précédents TP, etc.
